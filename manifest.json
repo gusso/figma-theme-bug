@@ -1,0 +1,11 @@
+{
+  "name": "themebug",
+  "id": "1175457237874390449",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
