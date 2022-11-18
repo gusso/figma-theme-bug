@@ -1,8 +1,7 @@
-# Node
+.vscode
 *.log
 *.log.*
-node_modules
-
-out/
-dist/
 code.js
+dist/
+node_modules
+out/
